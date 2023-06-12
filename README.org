@@ -1,0 +1,10 @@
+* conium
+
+A portability library for debugger- and compiler-related tasks in Common Lisp.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/sharplispers/conium.git   |
+| commit  | 089adfd  |
+| systems | conium |
+|---------+-------------------------------------------|
+
